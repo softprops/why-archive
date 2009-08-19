@@ -1,0 +1,5 @@
+# What is this?
+
+This is an archive of things that made _why known to many on the web.
+
+Please feel free to fork and add, though please respect _why's license and copyright of any material. Licenses should be included where possible.
